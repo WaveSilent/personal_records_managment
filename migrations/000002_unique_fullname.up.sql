@@ -1,0 +1,1 @@
+ALTER TABLE personnel_managment ADD CONSTRAINT workers_fullname_unique UNIQUE (fullname)

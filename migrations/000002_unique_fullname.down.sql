@@ -1,0 +1,1 @@
+ALTER TABLE personnel_managment DROP CONSTRAINT workers_fullname_unique

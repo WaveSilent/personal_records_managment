@@ -1,0 +1,1 @@
+DELETE TABLE personnel_managment;
